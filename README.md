@@ -7,3 +7,5 @@
   - Instagram: [Instagram](https://instagram.com/andrianfaa_)
   - Email: [andrianfadhilla@gmail.com](mailto:andrianfadhilla@gmail.com)
   - Website: [https://www.andriann.com/](https://www.andriann.com/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianfaa" />
