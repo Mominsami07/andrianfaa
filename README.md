@@ -8,4 +8,5 @@
   - Email: [andrianfadhilla@gmail.com](mailto:andrianfadhilla@gmail.com)
   - Website: [https://www.andriann.com/](https://www.andriann.com/)
 
+<img src="https://github-readme-stats.vercel.app/api?username=andrianfaa&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrianfaa" />
