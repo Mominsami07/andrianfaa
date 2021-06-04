@@ -1,4 +1,4 @@
-## Hi There! Im Andrian Fadhilla
+## Hi There!
 - 🌱 I’m currently learning ReactJs
 - ⚡ Excited to create a Website
 - 😄 I'm natively speak Indonesian and still learn english.
